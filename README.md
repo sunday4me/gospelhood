@@ -1,2 +1,2 @@
 # gospelhood
-Gospel Hood is app that host the Nigeria Christian hood movies
+Gospel Hood is an application that hosts the Nigeria Christian hood movies
